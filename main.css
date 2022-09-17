@@ -137,7 +137,8 @@ body {
   border-radius: 50%;
 }
 
-.info-text h3 {
+.info-text h1 {
+  font-size: 15.21px;
   margin-bottom: 0.25rem;
   color: var(--body-color);
 }
